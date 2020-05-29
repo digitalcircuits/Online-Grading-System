@@ -1,3 +1,0 @@
-#For the Heroku Server
-User-agent: *
-Disallow: /

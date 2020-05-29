@@ -1,6 +1,8 @@
-# CS490 Project
+# Online Grading System Project
 
-These files are for my CS490 Project. This project involves 3 people who make a front, middle, and back (I did parts of the middle & back) where a teacher can create and hand out a digital test and a student must take the test & be graded on it.
+*Dockerfile & Live Demo Coming Soon*
+
+These files are for my Online Grading System Project. This project involves 3 people who make a front, middle, and back (I did parts of the middle & back) where a teacher can create and hand out a digital test and a student must take the test & be graded on it.
 
 The project includes an autograder where the autograder will grade the system on:
 * Compilation (it must compile successfully)
