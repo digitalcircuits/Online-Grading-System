@@ -1,4 +1,4 @@
-# Online Test Taking System System Project
+# Online Test Taking System Project
 
 These files are for my Online Test Taking System Project. This project involves 3 people who make a front, middle, and back (I did parts of the middle & back) where a teacher can create and hand out a digital test and a student must take the test & be graded on it.
 
